@@ -1,3 +1,5 @@
+#How to create a function in mysql database
+
 USE `test`;
 DROP function IF EXISTS `income_function`;
 
